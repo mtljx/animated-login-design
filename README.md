@@ -1,4 +1,4 @@
-# animated-login-design
+# Animated-Login-Form-Design
 Animated Login Design coded with HTML, CSS, and GSAP
 Basic form structure created using HTML
 Stylings created using CSS
